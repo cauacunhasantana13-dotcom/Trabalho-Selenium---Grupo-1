@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1nPiKTrYmTkjpBsTy77Vv0AooDIM0nnbQ
 """
 
-#Instalando o Seleniumbase e pandas
+#Instalando o Seleniumbase
 !pip install seleniumbase
 
 #Instalando o Chromium no Colab pois é necessário para a extração do robô
